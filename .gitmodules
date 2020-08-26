@@ -2,3 +2,6 @@
 	path = themes/powerlevel10k
 	url = git@github.com:romkatv/powerlevel10k.git
 	branch = master
+[submodule "plugins/git-open"]
+	path = plugins/git-open
+	url = git@github.com:paulirish/git-open.git
